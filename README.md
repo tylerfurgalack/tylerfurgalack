@@ -8,7 +8,7 @@ Ive been learning to code for over a year and have developed a passion for probl
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [tylerfurgalack@gmail.com](mailto:tylerfurgalack@gmail.com)
-* 🚀  I'm currently working on [LightSpar](http://https://lightspar-748b0aecc840.herokuapp.com/)
+* 🚀  I'm currently working on [LightSpar](https://lightspar-748b0aecc840.herokuapp.com/user-sessions/new)
 * ⚡  Outside of work and coding my other hobbies include MMA, backpacking, boardgames, video games and meditation
 
 ### Skills
