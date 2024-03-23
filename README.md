@@ -4,7 +4,7 @@ Hi! My name is Tyler Furgalack
 Full Stack Developer
 --------------------
 
-Ive been learning to code for over a year and have developed a passion for problem solving. My previous field of work was in the agriculture industry.
+I have been writing code for 2 years and have developed a passion for problem solving. My previous field of work was in the agriculture industry.
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [tylerfurgalack@gmail.com](mailto:tylerfurgalack@gmail.com)
