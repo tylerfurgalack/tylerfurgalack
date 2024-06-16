@@ -8,7 +8,7 @@ I have been writing code for 2 years and have developed a passion for problem so
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [tylerfurgalack@gmail.com](mailto:tylerfurgalack@gmail.com)
-* 🚀  I'm currently working on [LightSpar](https://lightspar-748b0aecc840.herokuapp.com/user-sessions/new)
+* 🚀  I'm currently working on [VictoryDesignCo](https://victorydesignco.netlify.app/)
 * ⚡  Outside of work and coding my other hobbies include MMA, backpacking, boardgames, video games and meditation
 
 ### Skills
